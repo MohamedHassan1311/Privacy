@@ -139,7 +139,7 @@ We collect personal information that you voluntarily provide to us when you regi
 *   _Geolocation Information._ We may request access or permission to track location-based information from your mobile device, either continuously or while you are using our mobile application(s), to provide certain location-based services. If you wish to change our access or permissions, you may do so in your device's settings.
 
 *   _Mobile Device Access._ We may request access or permission to certain features from your mobile device, including your mobile device's camera, images, and other features. If you wish to change our access or permissions, you may do so in your device's settings.
-*   _Image used to your profile image
+*   _Image used to your profile image.
 
 *   _Push Notifications._ We may request to send you push notifications regarding your account or certain features of the application(s). If you wish to opt out from receiving these types of communications, you may turn them off in your device's settings.
 
