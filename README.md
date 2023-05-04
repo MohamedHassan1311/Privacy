@@ -1,31 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Privacy Policy for دكتور الفاكهة -ELnour fruit - FreePrivacyPolicy.com</title>
-<meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" type="text/css" href="/public/livelink/css/livelink.css" />
-<meta name="robots" content="noindex" />
-<meta property="og:title" content="Privacy Policy for دكتور الفاكهة -ELnour fruit - FreePrivacyPolicy.com" />
-<meta property="og:image" content="https://www.freeprivacypolicy.com/public/images/meta_og_image_livelink.png" />
-<meta property="og:image:width" content="1280" />
-<meta property="og:image:height" content="720" />
-<meta property="og:url" content="https://www.freeprivacypolicy.com/live/09569b1c-05be-406b-aee9-bc60fc1de506" />
-<meta property="og:site_name" content="FreePrivacyPolicy.com" />
-<link rel="canonical" href="https://www.freeprivacypolicy.com/live/09569b1c-05be-406b-aee9-bc60fc1de506" />
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-QSMNQ8CKJG"></script>
-<script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'G-QSMNQ8CKJG');
-    </script>
-</head>
-<body>
-<div class="page">
-<div class="header">
-<div class="container">
+
 <p class="title">Privacy Policy for دكتور الفاكهة -ELnour fruit</p>
 </div>
 </div>
