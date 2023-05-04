@@ -1,3 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Privacy Policy for دكتور الفاكهة -ELnour fruit - FreePrivacyPolicy.com</title>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" type="text/css" href="/public/livelink/css/livelink.css" />
+<meta name="robots" content="noindex" />
+<meta property="og:title" content="Privacy Policy for دكتور الفاكهة -ELnour fruit - FreePrivacyPolicy.com" />
+<meta property="og:image" content="https://www.freeprivacypolicy.com/public/images/meta_og_image_livelink.png" />
+<meta property="og:image:width" content="1280" />
+<meta property="og:image:height" content="720" />
+<meta property="og:url" content="https://www.freeprivacypolicy.com/live/09569b1c-05be-406b-aee9-bc60fc1de506" />
+<meta property="og:site_name" content="FreePrivacyPolicy.com" />
+<link rel="canonical" href="https://www.freeprivacypolicy.com/live/09569b1c-05be-406b-aee9-bc60fc1de506" />
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-QSMNQ8CKJG"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-QSMNQ8CKJG');
+    </script>
+</head>
+<body>
+<div class="page">
+<div class="header">
+<div class="container">
+<p class="title">Privacy Policy for دكتور الفاكهة -ELnour fruit</p>
+</div>
+</div>
+<div class="translations-content-container">
+<div class="container">
+<div class="tab-content translations-content-item en visible" id="en">
 <h1>Privacy Policy</h1>
 <p>Last updated: May 04, 2023</p>
 <p>This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.</p>
@@ -15,13 +49,13 @@
 <p><strong>Affiliate</strong> means an entity that controls, is controlled by or is under common control with a party, where &quot;control&quot; means ownership of 50% or more of the shares, equity interest or other securities entitled to vote for election of directors or other managing authority.</p>
 </li>
 <li>
-<p><strong>Application</strong> refers to  دكتور الفاكهة -ELnour fruit, the software program provided by the Company.</p>
+<p><strong>Application</strong> refers to دكتور الفاكهة -ELnour fruit, the software program provided by the Company.</p>
 </li>
 <li>
-<p><strong>Company</strong> (referred to as either &quot;the Company&quot;, &quot;We&quot;, &quot;Us&quot; or &quot;Our&quot; in this Agreement) refers to  دكتور الفاكهة -ELnour fruit.</p>
+<p><strong>Company</strong> (referred to as either &quot;the Company&quot;, &quot;We&quot;, &quot;Us&quot; or &quot;Our&quot; in this Agreement) refers to دكتور الفاكهة -ELnour fruit.</p>
 </li>
 <li>
-<p><strong>Country</strong> refers to:  Egypt</p>
+<p><strong>Country</strong> refers to: Egypt</p>
 </li>
 <li>
 <p><strong>Device</strong> means any device that can access the Service such as a computer, a cellphone or a digital tablet.</p>
@@ -110,7 +144,7 @@
 </ul>
 <p>We may share Your personal information in the following situations:</p>
 <ul>
-<li><strong>With Service Providers:</strong> We may share Your personal information with Service Providers to monitor and analyze the use of our Service,  to contact You.</li>
+<li><strong>With Service Providers:</strong> We may share Your personal information with Service Providers to monitor and analyze the use of our Service, to contact You.</li>
 <li><strong>For business transfers:</strong> We may share or transfer Your personal information in connection with, or during negotiations of, any merger, sale of Company assets, financing, or acquisition of all or a portion of Our business to another company.</li>
 <li><strong>With Affiliates:</strong> We may share Your information with Our affiliates, in which case we will require those affiliates to honor this Privacy Policy. Affiliates include Our parent company and any other subsidiaries, joint venture partners or other companies that We control or that are under common control with Us.</li>
 <li><strong>With business partners:</strong> We may share Your information with Our business partners to offer You certain products, services or promotions.</li>
@@ -158,5 +192,75 @@
 <h1>Contact Us</h1>
 <p>If you have any questions about this Privacy Policy, You can contact us:</p>
 <ul>
-<li>By email: mohmedelbaz1311@gmail.com</li>
+<li>By email: <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="325f5d5a5f5756575e5053480301030372555f535b5e1c515d5f">[email&#160;protected]</a></li>
 </ul>
+</div>
+</div>
+</div>
+
+<div class="footer">
+<div class="container">
+<p>Generated using <a href="https://www.freeprivacypolicy.com/free-privacy-policy-generator/" target="_blank">Free Privacy Policy Generator</a></p>
+</div>
+</div>
+</div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
+    const tabLinks = Array.from(document.querySelectorAll(".tab-link"));
+    const tabContents = document.querySelectorAll(".tab-content");
+    
+    tabLinks.forEach(function(tabLink) {
+        tabLink.addEventListener("click", toggleTab);
+    });
+    
+    let priorActiveTab = null;
+    
+    function toggleTab(event) {
+        tabLinks.forEach(function(tabLink, index){
+            tabLink.classList.remove("active");
+            tabLink.classList.add("inactive");
+        
+            tabContents[index].classList.remove("visible");
+            tabContents[index].classList.add("hidden");
+        });
+
+        if(priorActiveTab === this) {
+            this.classList.remove("active");
+            this.classList.add("inactive");
+
+            tabContents[tabLinks.indexOf(this)].classList.remove("visible");
+            tabContents[tabLinks.indexOf(this)].classList.add("hidden");
+
+            priorActiveTab = null;
+        } else {
+            this.classList.remove("inactive");
+            this.classList.add("active");
+        
+            tabContents[tabLinks.indexOf(this)].classList.remove("hidden");
+            tabContents[tabLinks.indexOf(this)].classList.add("visible");
+        
+            priorActiveTab = this;
+        }
+        
+        if (priorActiveTab === null) {
+            this.classList.remove("inactive");
+            this.classList.add("active");
+        
+            tabContents[tabLinks.indexOf(this)].classList.remove("hidden");
+            tabContents[tabLinks.indexOf(this)].classList.add("visible");
+        }
+      
+        event.preventDefault();
+    }
+</script>
+<script type="text/javascript">
+    "use strict";
+    window.LCG_TRACKING_APPLICATION = "freeprivacypolicy-livelink";
+    window.LCG_TRACKING_ENVIRONMENT = "production";
+    window.LCG_TRACKING_EPOCH = "2020-e01";
+</script>
+<script src="/track/v1/r/js-code" type="text/javascript" async="true"></script>
+<script src="/track/v1/r/js-data" type="text/javascript" async="true"></script>
+<img src="/track/v1/px" style="position:fixed;right:0px;bottom:0px;display:none;" />
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v52afc6f149f6479b8c77fa569edb01181681764108816" integrity="sha512-jGCTpDpBAYDGNYR5ztKt4BQPGef1P0giN6ZGVUi835kFF88FOmmn8jBQWNgrNd8g/Yu421NdgWhwQoaOPFflDw==" data-cf-beacon='{"rayId":"7c211ab118bb12b5","token":"dd281d4ac6a447be928fcee1746ec801","version":"2023.4.0","si":100}' crossorigin="anonymous"></script>
+</body>
+</html>
