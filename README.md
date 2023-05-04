@@ -1,13 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-
-<p class="title">Privacy Policy for دكتور الفاكهة -ELnour fruit</p>
-</div>
-</div>
-<div class="translations-content-container">
-<div class="container">
-<div class="tab-content translations-content-item en visible" id="en">
 <h1>Privacy Policy</h1>
 <p>Last updated: May 04, 2023</p>
 <p>This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.</p>
@@ -31,7 +21,7 @@
 <p><strong>Company</strong> (referred to as either &quot;the Company&quot;, &quot;We&quot;, &quot;Us&quot; or &quot;Our&quot; in this Agreement) refers to دكتور الفاكهة -ELnour fruit.</p>
 </li>
 <li>
-<p><strong>Country</strong> refers to: Egypt</p>
+<p><strong>Country</strong> refers to:  Egypt</p>
 </li>
 <li>
 <p><strong>Device</strong> means any device that can access the Service such as a computer, a cellphone or a digital tablet.</p>
@@ -85,10 +75,12 @@
 <p>Information regarding your location</p>
 </li>
 <li>
-<p>Pictures and other information from your Device's camera and photo library</p>
+<p>Images and other information from your Device's camera and photo library</p>
 </li>
 </ul>
 <p>We use this information to provide features of Our Service, to improve and customize Our Service. The information may be uploaded to the Company's servers and/or a Service Provider's server or it may be simply stored on Your device.</p>
+<h3>Image</h3>
+<p>We use Image for profile pictures and chat . The information may be uploaded to the Company's servers and/or a Service Provider's server or it may be simply stored on Your device.</p>
 <p>You can enable or disable access to this information at any time, through Your Device settings.</p>
 <h2>Use of Your Personal Data</h2>
 <p>The Company may use Personal Data for the following purposes:</p>
@@ -120,7 +112,7 @@
 </ul>
 <p>We may share Your personal information in the following situations:</p>
 <ul>
-<li><strong>With Service Providers:</strong> We may share Your personal information with Service Providers to monitor and analyze the use of our Service, to contact You.</li>
+<li><strong>With Service Providers:</strong> We may share Your personal information with Service Providers to monitor and analyze the use of our Service,  to contact You.</li>
 <li><strong>For business transfers:</strong> We may share or transfer Your personal information in connection with, or during negotiations of, any merger, sale of Company assets, financing, or acquisition of all or a portion of Our business to another company.</li>
 <li><strong>With Affiliates:</strong> We may share Your information with Our affiliates, in which case we will require those affiliates to honor this Privacy Policy. Affiliates include Our parent company and any other subsidiaries, joint venture partners or other companies that We control or that are under common control with Us.</li>
 <li><strong>With business partners:</strong> We may share Your information with Our business partners to offer You certain products, services or promotions.</li>
@@ -168,75 +160,5 @@
 <h1>Contact Us</h1>
 <p>If you have any questions about this Privacy Policy, You can contact us:</p>
 <ul>
-<li>By email: <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="325f5d5a5f5756575e5053480301030372555f535b5e1c515d5f">[email&#160;protected]</a></li>
+<li>By email: mohmedelbaz1311@gmail.com</li>
 </ul>
-</div>
-</div>
-</div>
-
-<div class="footer">
-<div class="container">
-<p>Generated using <a href="https://www.freeprivacypolicy.com/free-privacy-policy-generator/" target="_blank">Free Privacy Policy Generator</a></p>
-</div>
-</div>
-</div>
-<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
-    const tabLinks = Array.from(document.querySelectorAll(".tab-link"));
-    const tabContents = document.querySelectorAll(".tab-content");
-    
-    tabLinks.forEach(function(tabLink) {
-        tabLink.addEventListener("click", toggleTab);
-    });
-    
-    let priorActiveTab = null;
-    
-    function toggleTab(event) {
-        tabLinks.forEach(function(tabLink, index){
-            tabLink.classList.remove("active");
-            tabLink.classList.add("inactive");
-        
-            tabContents[index].classList.remove("visible");
-            tabContents[index].classList.add("hidden");
-        });
-
-        if(priorActiveTab === this) {
-            this.classList.remove("active");
-            this.classList.add("inactive");
-
-            tabContents[tabLinks.indexOf(this)].classList.remove("visible");
-            tabContents[tabLinks.indexOf(this)].classList.add("hidden");
-
-            priorActiveTab = null;
-        } else {
-            this.classList.remove("inactive");
-            this.classList.add("active");
-        
-            tabContents[tabLinks.indexOf(this)].classList.remove("hidden");
-            tabContents[tabLinks.indexOf(this)].classList.add("visible");
-        
-            priorActiveTab = this;
-        }
-        
-        if (priorActiveTab === null) {
-            this.classList.remove("inactive");
-            this.classList.add("active");
-        
-            tabContents[tabLinks.indexOf(this)].classList.remove("hidden");
-            tabContents[tabLinks.indexOf(this)].classList.add("visible");
-        }
-      
-        event.preventDefault();
-    }
-</script>
-<script type="text/javascript">
-    "use strict";
-    window.LCG_TRACKING_APPLICATION = "freeprivacypolicy-livelink";
-    window.LCG_TRACKING_ENVIRONMENT = "production";
-    window.LCG_TRACKING_EPOCH = "2020-e01";
-</script>
-<script src="/track/v1/r/js-code" type="text/javascript" async="true"></script>
-<script src="/track/v1/r/js-data" type="text/javascript" async="true"></script>
-<img src="/track/v1/px" style="position:fixed;right:0px;bottom:0px;display:none;" />
-<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v52afc6f149f6479b8c77fa569edb01181681764108816" integrity="sha512-jGCTpDpBAYDGNYR5ztKt4BQPGef1P0giN6ZGVUi835kFF88FOmmn8jBQWNgrNd8g/Yu421NdgWhwQoaOPFflDw==" data-cf-beacon='{"rayId":"7c211ab118bb12b5","token":"dd281d4ac6a447be928fcee1746ec801","version":"2023.4.0","si":100}' crossorigin="anonymous"></script>
-</body>
-</html>
